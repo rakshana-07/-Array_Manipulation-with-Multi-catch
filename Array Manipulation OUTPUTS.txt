@@ -1,0 +1,42 @@
+OUTPUT-1
+
+Enter the size of an array
+4
+Enter the array elements
+10
+20
+30
+40
+Enter the position of the element to be replicated
+3
+The array elements are 10 20 30 40 40
+
+OUTPUT-2
+
+Enter the size of an array
+3
+Enter the array elements
+2
+27
+3
+Enter the position of the element to be replicated
+3
+Array index is out of range
+
+
+OUTPUT-3
+
+
+Enter the size of an array
+2
+Enter the array elements
+2
+p
+Input was not in the correct format
+
+OUTPUT-4
+
+Enter the size of an array
+-1
+
+Array size should be positive
